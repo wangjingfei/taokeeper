@@ -19,8 +19,9 @@
 			<artifactId>taokeeper-common</artifactId>
 			<version>${taokeeper.version}</version>
 		</dependency>
-
+		<dependency>
+			<groupId>commons-httpclient</groupId>
+			<artifactId>commons-httpclient</artifactId>
+		</dependency>
 	</dependencies>
-
-
 </project>
